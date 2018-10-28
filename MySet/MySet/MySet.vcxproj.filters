@@ -18,9 +18,15 @@
     <ClInclude Include="MySet.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="OrderedSet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MySet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OrderedSet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

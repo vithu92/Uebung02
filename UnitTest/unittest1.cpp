@@ -2,7 +2,7 @@
 #include "CppUnitTest.h"
 
 #include "../MySet/MySet/MySet.h"
-#include "../MySet/OrderedSet.h"
+#include "../MySet/MySet/OrderedSet.h"
 
 using namespace Microsoft::VisualStudio::CppUnitTestFramework;
 
